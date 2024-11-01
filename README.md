@@ -63,4 +63,3 @@ This system administration project focuses on setting up a secure virtual machin
 ## CONTRIBUTING
 
 If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request. All credit goes to @jotavare (for the README.md).
-d
