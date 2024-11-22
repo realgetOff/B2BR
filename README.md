@@ -39,9 +39,9 @@ This system administration project focuses on setting up a secure virtual machin
 
 ## BONUS
 > During the evaluation, also had to justify my choices;
-- [x] Set up a different partition structure;
-- [x] Set up a functional `WordPress` website with the following services: `lighttpd`, `MariaDB` and `PHP`;
-- [x] Set up a service of my own choice that I think is useful (I personally used fail2ban, that prevent bruteforces attack);
+- [ ] Set up a different partition structure;
+- [ ] Set up a functional `WordPress` website with the following services: `lighttpd`, `MariaDB` and `PHP`;
+- [ ] Set up a service of my own choice that I think is useful (I recommend fail2ban, which prevents bruteforce attacks);
 
 ## NORMINETTE
 > At 42 School, it is expected that almost every project is written following the Norm, which is the coding standard of the school.
